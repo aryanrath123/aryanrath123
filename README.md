@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on coove.<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning React Native<br>💬 Ask me about <br>⚡ Fun fact
-
+🔭 I’m currently working on full-stack web development projects and leading GDG On Campus initiatives
+👯 I’m looking to collaborate on web apps, open-source projects, and hackathons
+🤝 I’m looking for help with advanced DSA and system design concepts
+🌱 I’m currently learning React Native
+💬 Ask me about JavaScript, React, Node.js, Flask, APIs, and GDG community building
+⚡ Fun fact: I balance coding with organizing tech communities as a GDG Lead 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_liftzzzzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-rath-80097b286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rath2004aryan@gmail.com) 
