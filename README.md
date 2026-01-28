@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web development projects and leading GDG On Campus initiatives
-👯 I’m looking to collaborate on web apps, open-source projects, and hackathons
-🤝 I’m looking for help with advanced DSA and system design concepts
-🌱 I’m currently learning React Native
-💬 Ask me about JavaScript, React, Node.js, Flask, APIs, and GDG community building
+🔭 I’m currently working on full-stack web development projects and leading GDG On Campus initiatives <br>
+👯 I’m looking to collaborate on web apps, open-source projects, and hackathons <br>
+🤝 I’m looking for help with advanced DSA and system design concepts <br>
+🌱 I’m currently learning React Native <br>
+💬 Ask me about JavaScript, React, Node.js, Flask, APIs, and GDG community building <br>
 ⚡ Fun fact: I balance coding with organizing tech communities as a GDG Lead 🚀
 
 ## 🌐 Socials:
